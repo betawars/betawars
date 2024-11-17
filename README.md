@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Shashank</h1>
+<h1 align="center">Hi!👋 I'm Shashank</h1>
 <h3 align="center">A software developer and a grad student at Oregon State University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betawars&label=Profile%20views&color=0e75b6&style=flat" alt="shashank_betawar" /> </p>
