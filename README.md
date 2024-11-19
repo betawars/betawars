@@ -21,6 +21,7 @@
 
 ## 💻 Current projects
 - EmpCenter Mobile [WIP] - Side project
+- Cinemagic WebApp [WIP] - Side project
 
 ## 📚 Learning
 - MERN Stack
