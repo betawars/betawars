@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betawars&label=Profile%20views&color=0e75b6&style=flat" alt="shashank_betawar" /> </p>
 
 ## 💬 Ask me about
-- Frontend web development (React.js, Angular.js, Javascript)
+- Frontend web development (Next.js, React.js, Angular.js, Javascript)
 - Backend web development (Springboot)
 - Android Studio
 - Side projects
