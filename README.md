@@ -20,7 +20,7 @@
 - etc...
 
 ## 💻 Current projects
-- EmpCenter Mobile [WIP] - Side project
+- FoodCart [WIP] - Side project
 - Cinemagic WebApp [WIP] - Side project
 
 ## 📚 Learning
